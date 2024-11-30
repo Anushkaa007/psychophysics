@@ -1,7 +1,7 @@
-The Choice Reaction Time Task
+The Decision Making Test 
 ======================================================
 
-Reaction times have been studies for over 100 years and a staple of scientific study in psychology. A commonly used procedure is to study reaction time involves measuring reaction times to a choice of stimuli.
+Reaction times have been studies for over 100 years and a staple of scientific study in psychology. A commonly used procedure is to study reaction time involves measuring reaction times to a choice of stimuli. This is to analyze contraction bias in decision-making (Hollingworth, H. L. (1910). The Journal of Philosophy, Psychology and Scientific Methods, 7(17), 461–469)
 
 The task
 --------------
